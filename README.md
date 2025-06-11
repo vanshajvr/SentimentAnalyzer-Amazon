@@ -1,14 +1,11 @@
-# SentimentAnalyzer-Amazon
+# Sentiment Analysis on Amazon Reviews 🛒📝
 This project performs sentiment analysis on Amazon product reviews using a blend of traditional rule-based and state-of-the-art transformer-based NLP models. The goal is to classify reviews as positive, negative, or neutral by leveraging different approaches to capture sentiment nuances.
 
-Features
+# Features
 Multi-Method Approach:
-
-Rule-based sentiment analysis using VADER for quick baseline scoring
-
-Fine-tuned RoBERTa transformer model for deep contextual understanding
-
-Application of Hugging Face Transformers library for advanced sentiment classification
+  Rule-based sentiment scoring with VADER ⚖️ for fast baseline analysis
+  Fine-tuned RoBERTa transformer 🤖 for deep contextual understanding
+  Hugging Face Transformers library 🌟 for advanced sentiment classification
 
 Data Preprocessing:
 
