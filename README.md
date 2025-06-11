@@ -3,30 +3,30 @@ This project performs sentiment analysis on Amazon product reviews using a blend
 
 # Features 🚀
   # Multi-Method Approach:
-    Rule-based sentiment scoring with VADER ⚖️ for fast baseline analysis
-    Fine-tuned RoBERTa transformer 🤖 for deep contextual understanding
-    Hugging Face Transformers library 🌟 for advanced sentiment classification
+  - Rule-based sentiment scoring with VADER ⚖️ for fast baseline analysis
+  - Fine-tuned RoBERTa transformer 🤖 for deep contextual understanding
+  - Hugging Face Transformers library 🌟 for advanced sentiment classification
 
   # Data Preprocessing:
-    Text cleaning, tokenization, and normalization 🧹 to prep raw reviews
-    Balanced handling of positive, negative, and neutral sentiments ⚖️
+  - Text cleaning, tokenization, and normalization 🧹 to prep raw reviews
+  - Balanced handling of positive, negative, and neutral sentiments ⚖️
   # Model Evaluation:
-    Accuracy, precision, recall, and F1-score metrics 📊
-    Visualizations of sentiment distribution and performance 📈
+  - Accuracy, precision, recall, and F1-score metrics 📊
+  - Visualizations of sentiment distribution and performance 📈
 
 # Getting Started 🛠️
 
 # Prerequisites
-    Python 3.x
-    Libraries: transformers, nltk, pandas, scikit-learn, torch
+  - Python 3.x
+  - Libraries: transformers, nltk, pandas, scikit-learn, torch
 
-Install dependencies with:
-pip install -r requirements.txt
+# Install dependencies with:
+    pip install -r requirements.txt
 
 # Usage
-    Open the Jupyter/Colab notebook (.ipynb) to follow the full workflow 📓
-    Step-by-step cells cover data loading, preprocessing, model training, and evaluation
-    Feel free to tweak parameters or try your own datasets! 🔧
+  - Open the Jupyter/Colab notebook (.ipynb) to follow the full workflow 📓
+  - Step-by-step cells cover data loading, preprocessing, model training, and evaluation
+  - Feel free to tweak parameters or try your own datasets! 🔧
 
 # Project Structure
     /SentimentAnalysis-AmazonReviews
