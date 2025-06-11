@@ -25,7 +25,7 @@ This project performs sentiment analysis on Amazon product reviews using a blend
 
 # 📂 Dataset: 
 https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews
-- This project uses the Amazon Fine Food Reviews dataset from Kaggle.
+- This project uses the [![Amazon Fine Food Reviews](https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews)] dataset from Kaggle.
 - Contains 568,000+ food reviews from Amazon, including ratings, review text, and product info 🛒
 - Ideal for natural language processing and sentiment classification tasks
 - Download it manually and place the CSV file in a data/ folder before running the notebook.
@@ -34,6 +34,8 @@ https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews
   - Open the Jupyter/Colab notebook (.ipynb) to follow the full workflow 📓
   - Step-by-step cells cover data loading, preprocessing, model training, and evaluation
   - Feel free to tweak parameters or try your own datasets! 🔧
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qKUJKs7MVxVTKZNvdk72NBT9Xn_oqnve?usp=sharing)
 
 # Project Structure
     /SentimentAnalysis-AmazonReviews
