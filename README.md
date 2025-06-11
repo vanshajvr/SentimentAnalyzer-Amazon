@@ -39,5 +39,5 @@ This project performs sentiment analysis on Amazon product reviews using a blend
 # About Me ✨
 Hi, I’m Vansh, a passionate NSUT student exploring AI & NLP through hands-on projects like this one. This repo showcases my growing skills in natural language processing, transformer models, and data-driven insights. 🚀
 
-License ⚖️
+# License ⚖️
 This project is licensed under the MIT License.
