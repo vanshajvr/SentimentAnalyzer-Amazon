@@ -1,0 +1,42 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Colab-specific junk
+*.nbconvert.ipynb
+*.ipynb~*
+
+# Python virtual environments
+.env/
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+
+# MacOS / Linux / Windows system files
+.DS_Store
+Thumbs.db
+
+# Logs and dumps
+*.log
+*.out
+
+# Data files (optional: only if large)
+data/
+*.csv
+*.tsv
+*.json
+
+# Model files (if you save any)
+*.h5
+*.pt
+*.pkl
+*.joblib
+
+# VS Code settings
+.vscode/
