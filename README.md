@@ -24,7 +24,6 @@ This project performs sentiment analysis on Amazon product reviews using a blend
     pip install -r requirements.txt
 
 #  Dataset 📂: 
-https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews
 - This project uses the [Amazon Fine Food Reviews](https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews) dataset from Kaggle.
 - Contains 568,000+ food reviews from Amazon, including ratings, review text, and product info 🛒
 - Ideal for natural language processing and sentiment classification tasks
