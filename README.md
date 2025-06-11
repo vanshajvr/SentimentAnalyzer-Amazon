@@ -1,6 +1,8 @@
 # Sentiment Analysis on Amazon Reviews 🛒📝
 This project performs sentiment analysis on Amazon product reviews using a blend of traditional rule-based and cutting-edge transformer-based NLP models. The goal? Classify reviews as positive, negative, or neutral by leveraging diverse methods to capture the full sentiment spectrum. 🔍✨
 
+> **Note:** A fully interactive Google Colab notebook is linked below for a hands-on experience without any setup! 🚀☁️
+
 # Features 🚀
   # Multi-Method Approach:
   - Rule-based sentiment scoring with VADER ⚖️ for fast baseline analysis
